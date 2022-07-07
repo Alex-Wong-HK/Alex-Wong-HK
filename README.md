@@ -16,3 +16,5 @@ Web3:
 
 ![cleardusk's github stats](https://github-readme-stats.vercel.app/api?username=Alex-Wong-HK&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
+# Contract me
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-wong-10b7b41a5/)
