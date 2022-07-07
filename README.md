@@ -1,4 +1,7 @@
--- 👋 Hi, I’m Alex Wong, a Full Stack Developer From Hong Kong. I have experience in:
+#About me
+👋 Hi, I’m Alex Wong, a Full Stack Developer From Hong Kong.
+
+#Experience
 --Frontend:
 -React, Angular, Flutter, React Native(Ts), SwiftUI, Jetpack Compose, PHP
 
