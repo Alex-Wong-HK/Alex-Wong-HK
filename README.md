@@ -1,5 +1,5 @@
 # About me
-👋 Hi, I’m Alex Wong, a Full Stack Developer From Hong Kong.
+👋 Hi, I’m Alex Wong, a Full Stack Developer From Hong Kong. Working on web3 project. 
 
 # Experience
 Frontend:
