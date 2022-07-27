@@ -17,6 +17,9 @@ Web3:
 AWS:
 - CDK, EC2, ECS, RDS, CodePipeline, Lambda, SQS, KMS, S3
 
+Others:
+- SDK, Chrome Plugin
+
 ![cleardusk's github stats](https://github-readme-stats.vercel.app/api?username=Alex-Wong-HK&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
 # Contract me
