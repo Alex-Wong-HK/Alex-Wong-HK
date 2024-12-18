@@ -9,16 +9,23 @@ Backend:
 - Express, Flask, Spring boot(Java || Kotlin), Nestjs, Django
 
 Deep learning:
-- Opencv(Darknet, yolov4), Tensorflow, Colab, Pytorch(MPRNet)
+- Opencv(Darknet, yolov4), Tensorflow, Colab, Pytorch(MPRNet), Rig, LangChain
 
 Web3:
-- Soldity, LayerZero, hardhat
+- Soldity, LayerZero, hardhat ( EVM )
+- Tact ( Ton )
 
 AWS:
-- CDK, EC2, ECS, RDS, CodePipeline, Lambda, SQS, KMS, S3
+- EC2, ECS, RDS, CodePipeline, Lambda, SQS, KMS, S3, SQS, 
+
+IAC:
+- CDK, Pulumi 
+
+Language:
+- Typescript, Go, Rust, Java, Kotlin, C#, Python, Swift
 
 Others:
-- SDK, Chrome Plugin
+- SDK, Chrome Plugin, K8S , CodeMagic ( Mobile App CI/CD), GitAction
 
 ![cleardusk's github stats](https://github-readme-stats.vercel.app/api?username=Alex-Wong-HK&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
